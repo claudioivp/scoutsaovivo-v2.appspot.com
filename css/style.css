@@ -249,7 +249,7 @@ h3{ height:30px; line-height:30px; font-size:15px; color:#fff; background:#444; 
 							{ text-decoration:underline;}
 						
 						.scouts-panel .playerlist .item .playerscouts
-						{ width:40px; height:24px; line-height:24px; float:right; text-align:right; cursor:pointer; }
+						{ width:40px; height:24px; line-height:24px; float:right; text-align:right; cursor:pointer;}
 				
 				.scouts-panel .playerlist li ul
 				{ border-top:none !important;}
